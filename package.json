@@ -1,5 +1,6 @@
 {
-  "name": "ecommerce",
+  "name": "web-store-front-customer",
+  "homepage": "https://Jupemon.github.io/web-store-front-customer/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
