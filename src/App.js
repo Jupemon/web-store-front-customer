@@ -240,7 +240,7 @@ class App extends Component {
         </Modal>}
         {this.state.route==="main" ? <div>
         <Promo />
-        <Popular />
+        <Popular toggleModal={this.toggleModal} addToCart={this.addToCart}/>
         <Categories selectFromProducts={this.selectFromProducts}/>
         <Footer />
         </div> :
