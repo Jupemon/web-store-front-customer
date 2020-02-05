@@ -3,6 +3,10 @@
 # Info 
 customer view for the online store, any changes made from store managing interface will show up on here
 
+## Blog post
+
+I wrote a blog post about this project : https://jupemon.blogspot.com/2020/02/what-i-learned-from-building-failed-e.html
+
 ## Web store project
 My plan was to create an online e-commerce platform which could be used to sell candy, clothes, electronics, etc. (currently it's optimized for selling candy). The goal was to create a database for the products, a server which handles database transactions and signin/register functionalities, interface for managing the products on the store and another interface for selling the products. I was able to create a bunch of those e-commerce functionalities until i eventually stopped working on it.
 
